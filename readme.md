@@ -1,5 +1,3 @@
-Sure! Here's the complete README.md in English, tailored to your current flat-folder Telegram finance bot project using Gemini 1.5 Flash, Google Sheets, and OCR:
-
 📄 README.md
 
 # 🧾 Telegram Finance Bot
