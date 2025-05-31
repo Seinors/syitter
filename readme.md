@@ -22,22 +22,6 @@ Supported by:
 
 Everything is stored in a flat directory (no subfolders):
 
-.
-├── bot.py
-├── config.py
-├── ai\_agent.py
-├── sheets.py
-├── ocr\_service.py
-├── text\_parser.py
-├── messages.py
-├── images.py
-├── documents.py
-├── commands.py
-├── logger.py
-├── creds.py
-├── requirements.txt
-├── .env
-└── README.md
 
 —
 
