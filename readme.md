@@ -1,6 +1,4 @@
-📄 README.md
-
-# 🧾 Telegram Finance Bot
+# 🧾 Telegram Syitter Bot
 
 This Telegram bot helps you automatically log financial transactions into Google Sheets by sending:
 
